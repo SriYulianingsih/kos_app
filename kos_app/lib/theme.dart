@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-
+// ini adalah warna untuk dipanggil di bagian yang lain
 Color ungu = Color(0xff5843DE);
 Color orange = Color(0xffFF9376);
 Color hitam = Color(0xff000000);
